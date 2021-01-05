@@ -2,6 +2,9 @@
 
 # ✍️ Blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [My 2020 Experience](https://janessagarrow.com/blog/blog/2020-review/)
+- [From Linguist to Web Developer](https://janessagarrow.com/blog/blog/from-linguist-to-web-developer/)
+- [CSS Dark Mode Toggle](https://janessagarrow.com/blog/blog/css-dark-mode-toggle/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
