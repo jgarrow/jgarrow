@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi, I'm Janessa! I'm a web developer with a soft spot for UX/UI development](./github-readme-banner.png)
 
 <!--
 **jgarrow/jgarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
