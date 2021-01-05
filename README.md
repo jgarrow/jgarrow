@@ -7,6 +7,12 @@
 - [CSS Dark Mode Toggle](https://janessagarrow.com/blog/css-dark-mode-toggle/)
 <!-- BLOG-POST-LIST:END -->
 
+# ⚡ Fun facts
+- I have two BA's in Linguistics and Italian Studies
+- My husband, [Peter Garrow](https://petergarrow.com/), is also a web developer 👨‍💻
+- I'm a mom 👨‍👩‍👧
+- I'm an avid Avatar the Last Airbender fan
+
 <!--
 **jgarrow/jgarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
