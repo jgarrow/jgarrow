@@ -1,6 +1,8 @@
 ![Hi, I'm Janessa! I'm a web developer with a soft spot for UX/UI development](./github-readme-banner.png)
 
-I'm currently a Developer Experience Engineer at [Apollo GraphQL](https://www.apollographql.com/) 🚀
+🚀 I'm currently a Developer Experience Engineer at [Apollo GraphQL](https://www.apollographql.com/)<br/>
+💻 [https://janessagarrow.com](https://janessagarrow.com/)<br/>
+🐦 [https://twitter.com/JanessaGarrow](https://twitter.com/JanessaGarrow)
 
 <!--
 <div class=".d-flex><a href="https://twitter.com/JanessaGarrow"><img src="./twitter-icon.png" alt="Twitter icon"/></a><a href="https://janessagarrow.com/"><img src="./computer-icon.png" alt="Computer icon"/></a></div>
