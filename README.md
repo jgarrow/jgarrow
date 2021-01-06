@@ -19,6 +19,9 @@ I'm currently a Developer Experience Engineer at [Apollo GraphQL](https://www.ap
 
 # This week's tools
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 # 🔨 Favorite tools
