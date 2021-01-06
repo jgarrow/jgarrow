@@ -17,28 +17,19 @@ I'm currently a Developer Experience Engineer at [Apollo GraphQL](https://www.ap
 - [CSS Dark Mode Toggle](https://janessagarrow.com/blog/css-dark-mode-toggle/)
 <!-- BLOG-POST-LIST:END -->
 
-# This week's tools
+# 🔨 This week's tools
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-# 🔨 Favorite tools
+# 👩‍💻 Favorite tools
 
-<img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" alt="ReactJS logo"/>
-
-<img height="100px" src="./Gatsby_Monogram.png" alt="GatsbyJS logo"/>
-
-<img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo"/>
-
-<img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo"/>
-
-<img height="100px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML5 logo"/>
-
-<img height="100px" src="https://graphql.org/img/logo.svg" alt="GraphQL logo"/>
-
-<img height="100px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS logo"/>
+<div align="center">
+<img height="50px" src="./images/react-atom.svg" alt="ReactJS logo"/> <img height="50px" src="./images/Gatsby_Monogram.svg" alt="GatsbyJS logo"/> <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo"/> <img height="50px" src="/images/css-3.svg" alt="CSS3 logo"/>
+<img height="50px" src="./images/html5.svg" alt="HTML5 logo"/> <img height="50px" src="https://graphql.org/img/logo.svg" alt="GraphQL logo"/> <img height="50px" src="./images/nodejs.svg" alt="NodeJS logo"/>
+</div>
 
 
 
