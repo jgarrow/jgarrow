@@ -6,9 +6,9 @@
 
 ## ✍️ Latest Blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Framer Motion Draggable Pip](https://janessagarrow.com/blog/framer-motion-pip/)
 - [My 2020 Experience](https://janessagarrow.com/blog/2020-review/)
 - [From Linguist to Web Developer](https://janessagarrow.com/blog/from-linguist-to-web-developer/)
-- [CSS Dark Mode Toggle](https://janessagarrow.com/blog/css-dark-mode-toggle/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔨 This week's tools
