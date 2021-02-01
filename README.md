@@ -6,9 +6,9 @@
 
 ## ✍️ Latest Blog posts 
 <!-- BLOG-POST-LIST:START -->
-- [Framer Motion Draggable Pip](https://janessagarrow.com/blog/framer-motion-pip/)
-- [My 2020 Experience](https://janessagarrow.com/blog/2020-review/)
-- [From Linguist to Web Developer](https://janessagarrow.com/blog/from-linguist-to-web-developer/)
+- [Layout Animations with Framer Motion](https://janessagarrow.com/blog/gatsby-framer-motion-animate-shared-layout/)
+- [Page Transitions with Gatsby + Framer Motion](https://janessagarrow.com/blog/gatsby-framer-motion-page-transitions/)
+- [Odyssey](https://janessagarrow.com/portfolio/odyssey/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔨 This week's tools
