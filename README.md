@@ -14,7 +14,8 @@
 ## 🔨 This week's tools
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 hrs 5 mins    ███████████████████▓░░░░░   79.31 % 
+JSON         48 mins         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 ```
 <!--END_SECTION:waka-->
 
