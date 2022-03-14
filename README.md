@@ -6,9 +6,9 @@
 
 ## ✍️ Latest Blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript and esbuild](https://janessagarrow.com/blog/typescript-and-esbuild/)
 - [Layout Animations with Framer Motion](https://janessagarrow.com/blog/gatsby-framer-motion-animate-shared-layout/)
 - [Page Transitions with Gatsby + Framer Motion](https://janessagarrow.com/blog/gatsby-framer-motion-page-transitions/)
-- [Odyssey](https://janessagarrow.com/portfolio/odyssey/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔨 This week's tools
