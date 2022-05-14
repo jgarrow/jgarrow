@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 6 mins     █████████████████████████   99.69 %
-MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JavaScript   55 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
