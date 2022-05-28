@@ -15,7 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 11 mins    ██████████▒░░░░░░░░░░░░░░   40.68 %
+MDX          56 mins         ████████░░░░░░░░░░░░░░░░░   32.02 %
+CSS          25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+JavaScript   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
