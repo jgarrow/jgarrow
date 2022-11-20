@@ -15,10 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         57 mins         ███████████▓░░░░░░░░░░░░░   46.94 %
-JavaScript   23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-MDX          19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-Other        11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
