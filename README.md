@@ -1,6 +1,6 @@
 ![Hi, I'm Janessa! I'm a web developer with a soft spot for UX/UI development](./images/github-readme-banner.png)
 
-🚀 I'm currently a Developer Experience Engineer at [Apollo GraphQL](https://www.apollographql.com/)<br/>
+🚀 I'm currently a Senior Frontend Engineer at [MX Technologies](https://www.mx.com/)<br/>
 💻 [https://janessagarrow.com](https://janessagarrow.com/)<br/>
 🐦 [https://twitter.com/JanessaGarrow](https://twitter.com/JanessaGarrow)
 
