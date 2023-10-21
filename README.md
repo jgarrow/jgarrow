@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       9 hrs 46 mins   ███████████▒░░░░░░░░░░░░░   45.10 %
-Python           2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-TypeScript       2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-YAML             1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Objective-C      1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+JavaScript       9 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   47.12 %
+Python           3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Objective-C      1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+TypeScript       1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+CSS              1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
 <!--END_SECTION:waka-->
