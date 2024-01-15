@@ -6,9 +6,9 @@
 
 ## ✍️ Latest Blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Sieve of Eratosthenes](https://janessagarrow.com/blog/sieve-of-eratosthenes/)
 - [MX Documentation](https://janessagarrow.com/portfolio/mx-docs/)
 - [TypeScript and esbuild](https://janessagarrow.com/blog/typescript-and-esbuild/)
-- [Layout Animations with Framer Motion](https://janessagarrow.com/blog/gatsby-framer-motion-animate-shared-layout/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔨 This week's tools
