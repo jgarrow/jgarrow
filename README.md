@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX    4 mins          ████████████████████▒░░░░   81.67 %
-JSON   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
