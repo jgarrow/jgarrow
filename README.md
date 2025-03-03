@@ -15,7 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 21 mins    ██████████████████████▓░░   90.86 %
+Other        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
