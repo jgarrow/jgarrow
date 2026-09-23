@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       0 secs                ██████████████████▒░░░░░░   73.48 %
-Markdown   0 secs                ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
